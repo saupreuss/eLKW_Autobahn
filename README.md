@@ -10,3 +10,5 @@ Die herkömmlichen Lkw oder batteriebetriebene Lkw würden dann sozusagen die le
 
 Allerdings sollte die Schiene als alternative Transportmöglichkeit für lange Strecken nicht aus den Augen verloren werden.
 
+-------------------
+saupreuss, 22-10-06
