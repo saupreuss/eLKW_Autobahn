@@ -1,7 +1,7 @@
 # eLKW_Autobahn
 Autobahn mit Oberleitung und elektrischen LKWs, Trucks with overheadlines on highways
 
-Die Idee hinter dem Projekt ist, die Umwelt zu schonen, indem LKW auf der Autobahn KEINEN Diesel mehr verbrauchen.
+Die Idee hinter dem Projekt (2006-Nov.) ist, die Umwelt zu schonen, indem LKW auf der Autobahn KEINEN Diesel mehr verbrauchen.
 Aufgebaut ist die Idee auf den Trollebusse / Oberleitungsbus, die in vielen Städten (Mailand, Wien, u.a.) seit jahren emmissionsfrei fahren.
 
 Zwei Fahrdrähte werden über "einfache" U-Schienen / Gleiter angezapft. 
