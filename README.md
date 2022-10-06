@@ -7,3 +7,6 @@ Aufgebaut ist die Idee auf den Trollebusse / Oberleitungsbus, die in vielen Stä
 Zwei Fahrdrähte werden über "einfache" U-Schienen / Gleiter angezapft. 
 Rein elektrische Lkw würden nur die Autobahn nutzen und ihre Anhänger / Trailer an Terminals / Umladestationen an herkömmliche LkW weitergeben.
 Die herkömmlichen Lkw oder batteriebetriebene Lkw würden dann sozusagen die letze Meile beliefern.
+
+Allerdings sollte die Schiene als alternative Transportmöglichkeit für lange Strecken nicht aus den Augen verloren werden.
+
